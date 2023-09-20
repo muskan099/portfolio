@@ -32,12 +32,12 @@ const Sidebar = () => {
                 </a> 
             </li>
             <li>
-               <a target="_blank" rel='noreferrer' href='https://github.com/muskan1z'>
+               <a target="_blank" rel='noreferrer' href='https://github.com/muskan099'>
                <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
                 </a> 
             </li>
             <li>
-               <a target="_blank" rel='noreferrer' href='https://github.com/muskan1z'>
+               <a target="_blank" rel='noreferrer' href='https://github.com/muskan099'>
                <FontAwesomeIcon icon={faYoutube} color="#4d4d4e" />
                 </a> 
             </li>
